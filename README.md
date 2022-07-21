@@ -1,3 +1,3 @@
 # Workshops
 
-Este reposit
+Este repositório contém código de workshops dos quais participei.
