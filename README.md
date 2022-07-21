@@ -1,6 +1,8 @@
 # Workshops
-Este repositório contém código disponibilizado durante os workshops dos quais participei.
+Este repositório contém o código disponibilizado durante os workshops dos quais participei.
 
-## From Code To Kubernetes
-Workshop que aconteceu durante o UPDate 2022 cujo objetivo era ver a diferença entre correr um servidor localmente e correr um servidor em Kubernetes.
+| Diretório                | Descrição |
+| :----------------------- | :----------------------------------------------------------------------------------------------------------------|
+| From Code to Kubernetes  | Neste workshop foi feita uma comparação entre correr um servidor localmente e correr um servidor em Kubernetes |
+
 
