@@ -1,11 +1,11 @@
 # Workshops
-Este repositório contém o código disponibilizado durante os workshops dos quais participei.
+This repository contains code from some workshops that I've been up to recently.
 
-| Diretório                | Descrição |
+| Folder                | Description |
 | :----------------------- | :----------------------------------------------------------------------------------------------------------------|
-| From Code to Kubernetes  | Workshop de comparação entre correr um servidor localmente e correr um servidor em Kubernetes |
-| Git | Workshop de introdução ao Git |
-| Pandas-Workshop | Workshop de introdução a Data Analysis com o módulo Pandas do Python |
-| Python-Snowpark | Workshop de ilustração do uso simultâneo de Python e Snowpark para treinar, implementar e correr um modelo de Machine Learning |
+| From Code to Kubernetes  | Comparison between run a server locally and run a server using Kubernetes |
+| Git | Introduction to Git |
+| Pandas-Workshop | Introduction to Data Analysis using Pandas module |
+| Python-Snowpark | Demonstration of the simultaneous use of Python and Snowpark to train, implement and run a Machine Learning model |
 
 
